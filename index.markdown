@@ -1,1 +1,6 @@
-Does `index.markdown` work?  Does this mean with [Github](http://github.com) I can be like [Gruber](http://daringfireball.net/)?
+---
+layout: default
+title: My very own github page
+---
+I finally got this working with markdown for the index.  Yes, I'm a little slow.
+
